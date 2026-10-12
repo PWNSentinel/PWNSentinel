@@ -8,7 +8,7 @@
 
 Tools and frameworks for blue team exercises, network diagnostics, and incident response readiness.
 
-[Website](https://www.pwnsentinel.org) · [Explore repositories](https://github.com/PWNSentinel?tab=repositories)
+[Website](https://www.pwnsentinel.com) · [Explore repositories](https://github.com/PWNSentinel?tab=repositories)
 
 <br clear="all" />
 
