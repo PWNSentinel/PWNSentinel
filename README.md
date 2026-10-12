@@ -1,5 +1,7 @@
 <img align="right" src="assets/pwnsentinel-emblem.png" alt="PWNSentinel emblem" width="124" />
 
+
+
 # PWNSentinel
 
 ### Security tools. Practical readiness.
